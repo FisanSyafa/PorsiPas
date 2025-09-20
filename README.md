@@ -1,5 +1,5 @@
 # PorsiPas AI
-[Klik Ini Untuk Coba PorsiPas Chatbot](https://porsipas-ai.streamlit.app)
+[Click Here to Try PorsiPas Chatbot](https://porsipas-ai.streamlit.app)
 
 AI chatbot using NLP, LLM, and RAG to analyze food nutrition intake and recommend the next meal for balanced nutrition.
 
